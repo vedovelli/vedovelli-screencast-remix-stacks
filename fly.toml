@@ -1,4 +1,4 @@
-app = "my-remix-app-indie-541f"
+app = "vedovelli-screencast-remix-stacks"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
